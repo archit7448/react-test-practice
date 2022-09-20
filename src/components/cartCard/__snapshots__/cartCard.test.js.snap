@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Cart render product 1`] = `
+Array [
+  "Milk",
+  "Butter",
+  "Eggs",
+  "water",
+]
+`;
